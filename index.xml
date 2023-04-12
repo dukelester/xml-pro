@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE employee SYSTEM "index.dtd">
+
+<employee>
+    <fullname>Duke Lester</fullname>
+    <location>Juja</location>
+    <company>Safaricom</company>
+    <Role> CBS Engineer</Role>
+    <salary> 56000</salary>
+</employee>
+
+<note>
+	<to> Duke lester</to>
+	<from> Lesterken</from>
+	<heading> Duke lester just got started with xml</heading>
+	<message> Learning xml from start to finish and be  Pro</message>
+</note>
+
+<address>
+	<location>Kenya </location>
+	<city> Nairobi </city>
+	<address> 5678, Kiambu</address>
+</address>
+

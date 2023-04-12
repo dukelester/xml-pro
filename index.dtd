@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8">
+<!ELEMENT employee ( fullname, location, company, Role, salary)>
+<!ELEMENT fullname () >
+<!ELEMENT location () >
+<!ELEMENT company () >
+<!ELEMENT Role () >
+<!ELEMENT salary () >
