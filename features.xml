@@ -1,0 +1,18 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+
+<XML-Features> 
+    <extensible> It is extensible and both human and machine readable.</extensible>
+    <platform>It is platform independent. It can be run anywhere.</platform>
+    <white-space>It preserves the white-space</white-space>
+    <simplicity>Overall Simplicity</simplicity>
+    <descriptive> Self descriptive in nature</descriptive>
+    <data> Separates data from HTML </data>
+    <tags> Tags are not predefined.</tags>
+    <purpose>To carry data not to display data</purpose>
+    <understand> It is easy to understand by humans</understand>
+    <structure> Well structured to enable easy reading and writing programs in xml</structure>
+
+
+
+
+</XML-Features>
